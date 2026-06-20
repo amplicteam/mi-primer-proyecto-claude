@@ -61,7 +61,28 @@
 
 | REQ-ID | Phase | Status |
 |--------|-------|--------|
-| (filled by roadmap) | | |
+| CORE-01 | Phase 1 | Pending |
+| CORE-02 | Phase 2 | Pending |
+| CORE-03 | Phase 2 | Pending |
+| CORE-04 | Phase 2 | Pending |
+| CAT-01 | Phase 3 | Pending |
+| CAT-02 | Phase 3 | Pending |
+| CAT-03 | Phase 3 | Pending |
+| CAT-04 | Phase 5 | Pending |
+| CAT-05 | Phase 3 | Pending |
+| PROG-01 | Phase 4 | Pending |
+| PROG-02 | Phase 4 | Pending |
+| PROG-03 | Phase 4 | Pending |
+| PROG-04 | Phase 4 | Pending |
+| MAP-01 | Phase 7 | Pending |
+| MAP-02 | Phase 8 | Pending |
+| MAP-03 | Phase 8 | Pending |
+| MAP-04 | Phase 7 | Pending |
+| CONT-01 | Phase 5 | Pending |
+| CONT-02 | Phase 5 | Pending |
+| CONT-03 | Phase 6 | Pending |
+| CONT-04 | Phase 6 | Pending |
+| CONT-05 | Phase 6 | Pending |
 
 ---
-*19 requirements | 6 deferred | 6 exclusions*
+*22 requirement mappings (19 unique) | 6 deferred | 6 exclusions*
