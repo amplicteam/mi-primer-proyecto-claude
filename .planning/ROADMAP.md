@@ -35,7 +35,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Tailwind CSS esta configurado y funcional
 **Plans**: 1 plan
 Plans:
-- [ ] 01-01-PLAN.md � Scaffold SvelteKit with Amplic branding and deploy to Vercel
+- [ ] 01-01-PLAN.md � Scaffold SvelteKit with Amplic branding and deploy to Vercel
 **UI hint**: yes
 
 ### Phase 2: Data Model and User Switching
@@ -48,7 +48,10 @@ Plans:
   2. El progreso de cada usuario se guarda en localStorage y sobrevive recargas del navegador
   3. Los datos de contenido se cargan desde archivos JSON estaticos sin backend
   4. Cambiar de perfil muestra el progreso del usuario seleccionado, no del otro
-**Plans**: TBD
+**Plans**: 2 plans
+Plans:
+- [ ] 02-01-PLAN.md — Data layer: types, static JSON, profiles, runes stores synced to localStorage
+- [ ] 02-02-PLAN.md — PIN gate + profile selection flow wiring users to namespaced progress
 **UI hint**: yes
 
 ### Phase 3: Resource Catalog
@@ -143,7 +146,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Project Scaffold and Deploy | 0/0 | Not started | - |
-| 2. Data Model and User Switching | 0/0 | Not started | - |
+| 2. Data Model and User Switching | 0/2 | Not started | - |
 | 3. Resource Catalog | 0/0 | Not started | - |
 | 4. Progress Tracking | 0/0 | Not started | - |
 | 5. Curated Content - LLMs and Prompting | 0/0 | Not started | - |
