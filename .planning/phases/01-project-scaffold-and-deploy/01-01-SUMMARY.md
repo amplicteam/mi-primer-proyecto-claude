@@ -54,7 +54,7 @@ Scaffolded the SvelteKit project with Amplic branding and deployed it live to Ve
 ## Repo
 
 - GitHub: https://github.com/amplicteam/amplic-learn (private)
-- Vercel: deployed (URL pending capture)
+- Vercel: https://amplic-learn.vercel.app (verified HTTP 200, tagline + Entrar + heading present)
 
 ## Requirements Satisfied
 
