@@ -33,7 +33,9 @@ Decimal phases appear between their surrounding integers in numeric order.
   1. Usuario puede abrir la URL de Vercel desde movil o desktop y ver la app
   2. El proyecto SvelteKit compila y despliega sin errores
   3. Tailwind CSS esta configurado y funcional
-**Plans**: TBD
+**Plans**: 1 plan
+Plans:
+- [ ] 01-01-PLAN.md — Scaffold SvelteKit with Amplic branding and deploy to Vercel
 **UI hint**: yes
 
 ### Phase 2: Data Model and User Switching
