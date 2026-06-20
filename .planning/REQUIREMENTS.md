@@ -62,27 +62,27 @@
 | REQ-ID | Phase | Status |
 |--------|-------|--------|
 | CORE-01 | Phase 1 | Done |
-| CORE-02 | Phase 2 | Pending |
-| CORE-03 | Phase 2 | Pending |
-| CORE-04 | Phase 2 | Pending |
-| CAT-01 | Phase 3 | Pending |
-| CAT-02 | Phase 3 | Pending |
-| CAT-03 | Phase 3 | Pending |
-| CAT-04 | Phase 5 | Pending |
-| CAT-05 | Phase 3 | Pending |
-| PROG-01 | Phase 4 | Pending |
-| PROG-02 | Phase 4 | Pending |
-| PROG-03 | Phase 4 | Pending |
-| PROG-04 | Phase 4 | Pending |
-| MAP-01 | Phase 7 | Pending |
-| MAP-02 | Phase 8 | Pending |
-| MAP-03 | Phase 8 | Pending |
-| MAP-04 | Phase 7 | Pending |
-| CONT-01 | Phase 5 | Pending |
-| CONT-02 | Phase 5 | Pending |
-| CONT-03 | Phase 6 | Pending |
-| CONT-04 | Phase 6 | Pending |
-| CONT-05 | Phase 6 | Pending |
+| CORE-02 | Phase 2 | Done |
+| CORE-03 | Phase 2 | Done |
+| CORE-04 | Phase 2 | Done |
+| CAT-01 | Phase 3 | Done |
+| CAT-02 | Phase 3 | Done |
+| CAT-03 | Phase 3 | Done |
+| CAT-04 | Phase 5 | Done |
+| CAT-05 | Phase 3 | Done |
+| PROG-01 | Phase 4 | Done |
+| PROG-02 | Phase 4 | Done |
+| PROG-03 | Phase 4 | Done |
+| PROG-04 | Phase 4 | Done |
+| MAP-01 | Phase 7 | Done |
+| MAP-02 | Phase 8 | Done |
+| MAP-03 | Phase 8 | Done |
+| MAP-04 | Phase 7 | Done |
+| CONT-01 | Phase 5 | Done |
+| CONT-02 | Phase 5 | Done |
+| CONT-03 | Phase 6 | Done |
+| CONT-04 | Phase 6 | Done |
+| CONT-05 | Phase 6 | Done |
 
 ---
 *22 requirement mappings (19 unique) | 6 deferred | 6 exclusions*
