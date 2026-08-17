@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "amplic-learn",
+      "runtimeExecutable": "C:/PROGRA~1/nodejs/npm.cmd",
+      "runtimeArgs": [
+        "--prefix",
+        "C:/Users/dharr/Desarrollo de Proyectos/amplic-learn",
+        "run",
+        "dev",
+        "--",
+        "--port",
+        "4319"
+      ],
+      "port": 4319
+    },
+    {
+      "name": "gym-app",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["-y", "serve", "gym-newlife-app", "-l", "4321"],
+      "port": 4321
+    }
+  ]
+}

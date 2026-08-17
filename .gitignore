@@ -1,0 +1,18 @@
+.env
+.env.*
+!.env.example
+
+# Other unrelated projects living in this folder — each has its own repo
+chanchito-pro/
+gym-newlife-app/
+gym-newlife/
+
+# Local-only Claude Code permission approvals
+.claude/settings.local.json
+
+__pycache__/
+*.pyc
+node_modules/
+.svelte-kit/
+build/
+.vercel/
